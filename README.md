@@ -6,3 +6,4 @@ Input Page
 
 Result Page
 
+![Screenshot 2021-02-01 194006](https://user-images.githubusercontent.com/56712397/106470216-404ca880-64c6-11eb-8385-65c7dd4092d2.png)
